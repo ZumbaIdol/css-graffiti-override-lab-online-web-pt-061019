@@ -9,3 +9,15 @@ div#wall #tag-2 {
 div#wall #tag-3.slick.wicked {
   display: none;
 }
+
+div#wall #tag-4 {
+  display: none;
+}
+
+div#wall div.parent #tag-5.slick#tag-5.slick {
+  display: none;
+}
+
+div#wall div.parent div:last-child div#tag-6 {
+  display: none;
+}
